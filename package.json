@@ -1,0 +1,41 @@
+{
+  "name": "remotion-vercel-sandbox",
+  "version": "1.0.0",
+  "description": "Run Remotion video rendering inside Vercel Sandbox — with glibc 2.35 compatibility fix for Amazon Linux 2023",
+  "type": "module",
+  "private": true,
+  "keywords": [
+    "remotion",
+    "vercel",
+    "sandbox",
+    "video-rendering",
+    "glibc",
+    "patchelf",
+    "serverless",
+    "firecracker",
+    "amazon-linux"
+  ],
+  "author": "Ozgur Sagiroglu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diojen-tech/remotion-vercel-sandbox"
+  },
+  "scripts": {
+    "build:remotion": "node scripts/build-remotion.mjs",
+    "preview": "remotion preview src/remotion/index.ts"
+  },
+  "dependencies": {
+    "@vercel/sandbox": "^1.5.0",
+    "@remotion/renderer": "4.0.421",
+    "remotion": "4.0.421"
+  },
+  "devDependencies": {
+    "@remotion/bundler": "4.0.421",
+    "@remotion/cli": "4.0.421",
+    "@types/react": "^19.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "typescript": "^5.0.0"
+  }
+}
